@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/ljk25679/openwrt-mt7915-csi
+  REPO_URL: https://github.com/harping13/openwrt-mt7915-csi
   REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
